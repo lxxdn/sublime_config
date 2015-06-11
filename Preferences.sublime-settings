@@ -1,0 +1,67 @@
+{
+	"color_scheme": "Packages/Theme - Toxin/Toxin.tmTheme",
+	"command": "title_case",
+	"enabled_extensions":
+	[
+		"extra",
+		"github",
+		"codehilite(guess_lang=False,pygments_style=github)"
+	],
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags"
+	],
+	"font_size": 15.0,
+	"github_token": "c8942c3f9ac50a0199db4f35cba76238d07ff5e3",
+	"guess_language": false,
+	"ignored_packages":
+	[
+		"Sass",
+		"Gist",
+		"Sublimerge Pro",
+		"Ruby on Rails snippets",
+		"Vintage",
+		"Twitter Bootstrap Snippets",
+		"SCSS",
+		"RestructuredText",
+		"SublimeLinter-coffee",
+		"Git",
+		"Emmet",
+		"rspec-snippets",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Markdown",
+		"nginx"
+	],
+	"keys":
+	[
+		"super+k",
+		"super+t"
+	],
+	"run_on_save": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

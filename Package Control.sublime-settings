@@ -1,0 +1,36 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"Better Completion",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"CTags",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Git",
+		"Git Config",
+		"GitGutter",
+		"InsertDate",
+		"JsFormat",
+		"Monokai Extended",
+		"NASM x86 Assembly",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Rails Latest Migration",
+		"Sass",
+		"SideBarEnhancements",
+		"Smart Match",
+		"Stupid Indent",
+		"SublimeLinter-coffee",
+		"Sublimerge Pro",
+		"Syntax Highlighting for Sass",
+		"Theme - Toxin"
+	]
+}

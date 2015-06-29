@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Toxin/Toxin.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Toxin (SL).tmTheme",
 	"command": "title_case",
 	"enabled_extensions":
 	[
@@ -37,21 +37,21 @@
 	"guess_language": false,
 	"ignored_packages":
 	[
-		"Sass",
-		"Gist",
-		"Sublimerge Pro",
-		"Ruby on Rails snippets",
-		"Vintage",
-		"Twitter Bootstrap Snippets",
-		"SCSS",
-		"RestructuredText",
-		"SublimeLinter-coffee",
-		"Git",
 		"Emmet",
-		"rspec-snippets",
-		"CoffeeComplete Plus (Autocompletion)",
 		"Markdown",
-		"nginx"
+		"rspec-snippets",
+		"RestructuredText",
+		"Vintage",
+		"Gist",
+		"Ruby on Rails snippets",
+		"SublimeLinter-coffee",
+		"nginx",
+		"Twitter Bootstrap Snippets",
+		"Sass",
+		"SCSS",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Git",
+		"Sublimerge Pro"
 	],
 	"keys":
 	[

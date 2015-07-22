@@ -1,4 +1,15 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
 	"color_scheme": "Packages/User/SublimeLinter/Toxin (SL).tmTheme",
 	"command": "title_case",
 	"enabled_extensions":
@@ -37,21 +48,20 @@
 	"guess_language": false,
 	"ignored_packages":
 	[
-		"Emmet",
-		"Markdown",
 		"rspec-snippets",
-		"RestructuredText",
-		"Vintage",
-		"Gist",
 		"Ruby on Rails snippets",
-		"SublimeLinter-coffee",
-		"nginx",
+		"Markdown",
+		"Gist",
 		"Twitter Bootstrap Snippets",
-		"Sass",
-		"SCSS",
-		"CoffeeComplete Plus (Autocompletion)",
+		"nginx",
+		"RestructuredText",
+		"SublimeLinter-coffee",
+		"Emmet",
+		"Sublimerge Pro",
+		"Vintage",
 		"Git",
-		"Sublimerge Pro"
+		"Sass",
+		"CoffeeComplete Plus (Autocompletion)"
 	],
 	"keys":
 	[
@@ -60,6 +70,7 @@
 	],
 	"run_on_save": true,
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

@@ -48,20 +48,20 @@
 	"guess_language": false,
 	"ignored_packages":
 	[
-		"rspec-snippets",
+		"Twitter Bootstrap Snippets",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Sublimerge Pro",
+		"Sass",
 		"Ruby on Rails snippets",
 		"Markdown",
-		"Gist",
-		"Twitter Bootstrap Snippets",
 		"nginx",
+		"rspec-snippets",
 		"RestructuredText",
-		"SublimeLinter-coffee",
+		"Gist",
 		"Emmet",
-		"Sublimerge Pro",
-		"Vintage",
+		"SublimeLinter-coffee",
 		"Git",
-		"Sass",
-		"CoffeeComplete Plus (Autocompletion)"
+		"Vintage"
 	],
 	"keys":
 	[

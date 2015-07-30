@@ -48,20 +48,19 @@
 	"guess_language": false,
 	"ignored_packages":
 	[
-		"Twitter Bootstrap Snippets",
-		"CoffeeComplete Plus (Autocompletion)",
-		"Sublimerge Pro",
-		"Sass",
-		"Ruby on Rails snippets",
-		"Markdown",
-		"nginx",
 		"rspec-snippets",
-		"RestructuredText",
+		"Twitter Bootstrap Snippets",
 		"Gist",
-		"Emmet",
+		"Sublimerge Pro",
+		"nginx",
 		"SublimeLinter-coffee",
+		"RestructuredText",
+		"Emmet",
+		"Ruby on Rails snippets",
 		"Git",
-		"Vintage"
+		"Vintage",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Markdown"
 	],
 	"keys":
 	[
@@ -69,8 +68,9 @@
 		"super+t"
 	],
 	"run_on_save": true,
+	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

@@ -1,76 +1,38 @@
 {
-	"auto_complete_triggers":
-	[
-		{
-			"characters": "<",
-			"selector": "text.html"
-		},
-		{
-			"characters": ".",
-			"selector": "source.js"
-		}
-	],
-	"color_scheme": "Packages/User/SublimeLinter/Toxin (SL).tmTheme",
-	"command": "title_case",
-	"enabled_extensions":
-	[
-		"extra",
-		"github",
-		"codehilite(guess_lang=False,pygments_style=github)"
-	],
-	"file_exclude_patterns":
-	[
-		"*.pyc",
-		"*.pyo",
-		"*.exe",
-		"*.dll",
-		"*.obj",
-		"*.o",
-		"*.lib",
-		"*.so",
-		"*.dylib",
-		"*.ncb",
-		"*.sdf",
-		"*.suo",
-		"*.pdb",
-		"*.idb",
-		".DS_Store",
-		"*.class",
-		"*.psd",
-		"*.db",
-		"*.sublime-workspace",
-		".tags",
-		".tags_sorted_by_file",
-		".gemtags"
-	],
+	"color_scheme": "Packages/Theme - Toxin/Toxin.tmTheme",
 	"font_size": 15.0,
-	"github_token": "c8942c3f9ac50a0199db4f35cba76238d07ff5e3",
-	"guess_language": false,
 	"ignored_packages":
 	[
-		"rspec-snippets",
-		"Twitter Bootstrap Snippets",
-		"Gist",
-		"Sublimerge Pro",
-		"nginx",
-		"SublimeLinter-coffee",
-		"RestructuredText",
-		"Emmet",
-		"Ruby on Rails snippets",
-		"Git",
-		"Vintage",
-		"CoffeeComplete Plus (Autocompletion)",
-		"Markdown"
+		"Vintage"
 	],
-	"keys":
-	[
-		"super+k",
-		"super+t"
-	],
+  "file_exclude_patterns":
+  [
+    "*.pyc",
+    "*.pyo",
+    "*.exe",
+    "*.dll",
+    "*.obj",
+    "*.o",
+    "*.lib",
+    "*.so",
+    "*.dylib",
+    "*.ncb",
+    "*.sdf",
+    "*.suo",
+    "*.pdb",
+    "*.idb",
+    ".DS_Store",
+    "*.class",
+    "*.psd",
+    "*.db",
+    "*.sublime-workspace",
+    ".tags",
+    ".tags_sorted_by_file",
+    ".gemtags"
+  ],
 	"run_on_save": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

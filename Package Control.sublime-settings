@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -15,6 +16,7 @@
 		"Git",
 		"Git Config",
 		"GitGutter",
+		"Gulp",
 		"InsertDate",
 		"Jade",
 		"JsFormat",
@@ -23,6 +25,7 @@
 		"nginx",
 		"Package Control",
 		"Pretty JSON",
+		"SCSS",
 		"SideBarEnhancements",
 		"Smart Match",
 		"Stupid Indent",

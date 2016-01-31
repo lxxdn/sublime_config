@@ -6,16 +6,21 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Base16 Color Schemes",
 		"BeautifyRuby",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"C++ Snippets",
+		"C++11",
 		"ChangeQuotes",
+		"ColorSchemeSelector",
 		"CTags",
 		"Dotfiles Syntax Highlighting",
-		"Emmet",
+		"EncodingHelper",
 		"Git",
 		"Git Config",
-		"GitGutter",
+		"GitGutter-Edge",
+		"Gruvbox Dark",
 		"Gulp",
 		"InsertDate",
 		"Jade",
@@ -26,9 +31,12 @@
 		"Package Control",
 		"Pretty JSON",
 		"SCSS",
+		"Select Quoted",
 		"SideBarEnhancements",
 		"Smart Match",
 		"Stupid Indent",
-		"Theme - Toxin"
+		"SuperSelect",
+		"Theme - Toxin",
+		"Tmux"
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Toxin/Toxin.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/base16-eighties.dark.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -30,11 +30,13 @@
 		"node_modules"
 	],
 	"font_size": 15.0,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"run_on_save": true,
+	"show_encoding": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",

@@ -1,9 +1,8 @@
 [
   { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"},
-  { "keys": ["ctrl+alt+f"], "command": "js_format"},
   { "keys": ["super+v"], "command": "paste_and_indent" },
   { "keys": ["ctrl+shift+d"],
      "command": "insert_date",
      "args": {"format": "%Y-%m-%d"} },
-  { "keys": ["shift+super+."], "command": "change_quotes" },
+  { "keys": ["ctrl+shift+'"], "command": "change_quotes" },
 ]
